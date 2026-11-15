@@ -1,0 +1,13 @@
+  kent 1950: HTTP 429 {"error":true,"reason":"Hourly API request limit exceeded. Please try again in the next ho -> waiting 300s
+  kent 1950: HTTP 429 {"error":true,"reason":"Hourly API request limit exceeded. Please try again in the next ho -> waiting 300s
+  kent 1950: HTTP 429 {"error":true,"reason":"Hourly API request limit exceeded. Please try again in the next ho -> waiting 300s
+  kent 1950: HTTP 429 {"error":true,"reason":"Hourly API request limit exceeded. Please try again in the next ho -> waiting 300s
+  kent 1950: HTTP 429 {"reason":"Hourly API request limit exceeded. Please try again in the next hour.","error": -> waiting 300s
+  kent 1950: HTTP 429 {"reason":"Hourly API request limit exceeded. Please try again in the next hour.","error": -> waiting 300s
+  kent 1950: HTTP 429 {"error":true,"reason":"Hourly API request limit exceeded. Please try again in the next ho -> waiting 300s
+  kent 1950: HTTP 429 {"error":true,"reason":"Hourly API request limit exceeded. Please try again in the next ho -> waiting 300s
+kent: 6859 days saved
+akron: 6859 days saved
+cleveland: 6859 days saved
+youngstown: 6859 days saved
+chardon: 6859 days saved
